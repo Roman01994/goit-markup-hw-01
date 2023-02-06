@@ -1,4 +1,4 @@
-.prettierrc.json:
+
 { 
  "arrowParens": "avoid",
  "bracketSpacing": true,
